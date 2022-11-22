@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 200px;
+    background-color: burlywood;
+    }
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: burlywood;
+    color: darkolivegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+  }
+
+h1{
+    text-align: center;
+    color: darkolivegreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', fantasy;
+    font-size: 60px;
+    text-shadow: 0mm 1mm 1mm black;
+} 
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: darkolivegreen;
+    line-height: 10mm;
+    text-shadow: 0mm 0.3mm 0.3mm darkolivegreen;
+    font-family: 'Times New Roman', Times, serif
+}
+
+img{
+    display:block;
+    height: 100px;
+    width: 100px;
+    margin:18px;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+    color: darkolivegreen;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+}
+
+.card {
+    width: 80%;
+    margin: 30px auto;
+    padding: 20px;
+    border: 2px solid burlywood;
+    box-shadow: 5px 5px darksalmon;
+    background-color: burlywood;
+}
+
